@@ -1,0 +1,14 @@
+C:\Users\YKunnummal\source\repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.exe
+C:\Users\YKunnummal\source\repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.deps.json
+C:\Users\YKunnummal\source\repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.json
+C:\Users\YKunnummal\source\repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.dev.json
+C:\Users\YKunnummal\source\repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\YKunnummal\source\repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\YKunnummal\source\repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.AssemblyReference.cache
+C:\Users\YKunnummal\source\repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YKunnummal\source\repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfoInputs.cache
+C:\Users\YKunnummal\source\repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfo.cs
+C:\Users\YKunnummal\source\repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\YKunnummal\source\repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\YKunnummal\source\repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\YKunnummal\source\repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.genruntimeconfig.cache
