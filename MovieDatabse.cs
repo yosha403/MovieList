@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MovieList
 {
-    class MovieDatabse
+   public class MovieDatabse
     {
         //The main job of this class is to manage a list of Movie objects
         public List<Movie> movies { get; set; } = new List<Movie>();
@@ -33,17 +33,22 @@ namespace MovieList
         
         
         //A method to search the movies based on a category and print the movies
-        public void SearchByCategory(List<Movie> movies, string name)
+        public string SearchByCategory(List<Movie> movies, string name)
         {
+            //using this string to return output and replaced Console.Write and ReadLine with the output variable.
+            string output = "";
             for (int i = 0; i < movies.Count; i++)
             {
                 Movie mv = movies[i];
                 if (mv.category.ToLower() == name.ToLower())
                 {
-                    Console.WriteLine(mv.title);
+                    //adding a new line
+                    output += (mv.title + "\n");
                 }                               
             }
-            Console.WriteLine("\nPlease enter a valid category. scifi/drama/animated/horror");
+           output += ("\nPlease enter a valid category. scifi/drama/animated/horror");
+
+            return output;
         }      
     }
 }

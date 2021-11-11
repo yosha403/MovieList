@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MovieList
 {
-    class Movie
+   public class Movie
     {
         public string title { get; set; }
         public string category { get; set; }
